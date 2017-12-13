@@ -1,6 +1,8 @@
 /*
+Data: 13/12/2017
 Aluno: Raphael Morais dos Santos
 Email: raphael1710@gmail.com
+IGTI - PPS173A - Padrões de Projeto de Software
 
 Utilizei nesse exemplo o padrão Factory Method.
 
